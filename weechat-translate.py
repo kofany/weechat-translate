@@ -3,7 +3,7 @@ import weechat as w
 import json
 import requests
 
-SCRIPT_NAME = "weechat translate"
+SCRIPT_NAME = "inout_translate"
 SCRIPT_AUTHOR = "Jerzy Dabrowski (kofany) <j@dabrowski.biz>"
 SCRIPT_VERSION = "1.0"
 SCRIPT_LICENSE = "GPL"
