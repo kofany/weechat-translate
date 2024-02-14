@@ -11,14 +11,14 @@ The WeeChat Translate Plugin is a powerful tool designed to enhance your IRC exp
 
 ## Installation
 1. Ensure you have WeeChat installed on your system.
-2. Place the `translate.py` script in your WeeChat Python scripts directory (typically `~/.weechat/python`).
-3. Load the script in WeeChat using the command: `/script load translate.py`
+2. Place the `inout_translate.py` script in your WeeChat Python scripts directory (typically `~/.weechat/python`).
+3. Load the script in WeeChat using the command: `/script load inout_translate.py`
 
 ## Configuration
 Before using the plugin, you need to set your Google Translate API key:
 1. Obtain an API key from the [Google Cloud Console](https://console.cloud.google.com/).
 2. In WeeChat, set your API key using the command:
-/set plugins.var.python.weechat_translate.api_key YOUR_API_KEY
+/set plugins.var.python.weechat_inout_translate.api_key YOUR_API_KEY
 
 
 ## Usage
