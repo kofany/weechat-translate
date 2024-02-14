@@ -1,7 +1,7 @@
-# WeeChat Translate Script
+# WeeChat inout Translate Script
 
 ## Description
-The WeeChat Translate Plugin is a powerful tool designed to enhance your IRC experience by enabling real-time translation of messages for specified channels and servers. This plugin leverages the Google Translate API to provide seamless translation, making it easier to communicate with users from different linguistic backgrounds.
+The WeeChat inout Translate script is a powerful tool designed to enhance your IRC experience by enabling real-time translation of messages for specified channels and servers. This plugin leverages the Google Translate API to provide seamless translation, making it easier to communicate with users from different linguistic backgrounds.
 
 ## Features
 - Translate incoming and outgoing messages in real-time.
